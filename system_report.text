@@ -1,0 +1,41 @@
+System Performance Report
+----------------------------
+CPU Usage: 4.5%
+Memory Usage:
+  Total: 15Gi Used: 7.0Gi Free: 2.9Gi
+Disk Usage:
+  on: Total: Size Used: Used Available: Avail
+  /dev: Total: 7.8G Used: 0 Available: 7.8G
+  /run: Total: 1.6G Used: 2.6M Available: 1.6G
+  /: Total: 916G Used: 109G Available: 761G
+  /dev/shm: Total: 7.8G Used: 673M Available: 7.2G
+  /run/lock: Total: 5.0M Used: 4.0K Available: 5.0M
+  /sys/fs/cgroup: Total: 7.8G Used: 0 Available: 7.8G
+  /snap/bare/5: Total: 128K Used: 128K Available: 0
+  /snap/code/174: Total: 317M Used: 317M Available: 0
+  /snap/core22/1663: Total: 74M Used: 74M Available: 0
+  /snap/core20/2434: Total: 64M Used: 64M Available: 0
+  /snap/gnome-3-38-2004/143: Total: 350M Used: 350M Available: 0
+  /snap/gnome-3-38-2004/119: Total: 347M Used: 347M Available: 0
+  /snap/gtk-common-themes/1535: Total: 92M Used: 92M Available: 0
+  /snap/snapd/21759: Total: 39M Used: 39M Available: 0
+  /snap/snap-store/1113: Total: 13M Used: 13M Available: 0
+  /snap/gnome-42-2204/176: Total: 506M Used: 506M Available: 0
+  /snap/snap-store/1216: Total: 13M Used: 13M Available: 0
+  /snap/sublime-text/156: Total: 64M Used: 64M Available: 0
+  /snap/sublime-text/177: Total: 64M Used: 64M Available: 0
+  /snap/gnome-42-2204/141: Total: 497M Used: 497M Available: 0
+  /snap/core20/2379: Total: 64M Used: 64M Available: 0
+  /boot/efi: Total: 511M Used: 6.1M Available: 505M
+  /run/user/126: Total: 1.6G Used: 28K Available: 1.6G
+  /snap/snapd/23258: Total: 45M Used: 45M Available: 0
+  /run/user/1000: Total: 1.6G Used: 92K Available: 1.6G
+  /snap/core22/1722: Total: 74M Used: 74M Available: 0
+  /snap/code/176: Total: 317M Used: 317M Available: 0
+Top 5 CPU-Consuming Processes:
+    PID COMMAND         %CPU
+ 136847 chrome           9.3
+ 137317 chrome           6.4
+ 137392 tracker-extract  4.7
+ 137385 tracker-store    3.0
+ 107506 chrome           1.4
